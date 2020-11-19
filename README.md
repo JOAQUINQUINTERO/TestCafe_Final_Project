@@ -1,4 +1,4 @@
-# TestCafe_BootCamp
+# TestCafe_Final_Project
 * **README strictly for the QAMind TestCafe course**
 
 <p align="center">
